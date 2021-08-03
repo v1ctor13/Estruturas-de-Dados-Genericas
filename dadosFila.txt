@@ -1,0 +1,4 @@
+Dracula 1062 1
+Alucard 570 2
+Eren 18 3
+Levi 30 4

@@ -1,0 +1,5 @@
+fulano 22 100
+beltrano 30 101
+ciclano 33 102
+mulambo 50 103
+fernando 40 104 
